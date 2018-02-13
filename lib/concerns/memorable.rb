@@ -15,12 +15,6 @@ module Memorable
   #    @@artists.count
   #  end
 
-  def count
-    all.count
-  end
 
-  def reset_all
-    all.clear
-  end
 
 end
